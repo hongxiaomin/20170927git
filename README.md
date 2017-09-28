@@ -19,3 +19,11 @@ mkdir gitdemo
 cd gitdemo
 git init
 ```
+# 切换目录
+```
+pwd 显示当前的工作目录
+cd ..切换到上级目录
+cd 目录名 切换到下级指定的目录里
+cd /e git-bash下切换到e盘的根目录下
+e: window的cmd下切换到e盘的根目录下
+```
